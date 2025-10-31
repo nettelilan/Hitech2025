@@ -1,0 +1,5 @@
+CREATE DATABASE kav
+
+DEFAULT CHARACTER SET ascii
+
+DEFAULT COLLATE ascii_general_ci;
